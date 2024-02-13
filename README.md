@@ -3,7 +3,7 @@
 
 Ringier South Africa serves as one of two tech hubs for Ringier's global operations. We build marketplace systems & Websites and fulfill a role to further the technical excellence for all of Ringier's many interests.
 
-Our marketplace plaforms are made up of Cars, Jobs, Property and General Classified assets; uniquely localised and expertly scaled for markets on multiple continents.
+Our marketplace plaforms are made up of Jobs, Property and General Classified assets; uniquely localised and expertly scaled for markets on multiple continents.
 
 This challenge project will give you a glimpse into life as a developer at Ringier South Africa.
 
@@ -36,9 +36,9 @@ We will rate the delivered work based on the expected position level as follows:
 
 ### Senior Level
 * A working project
-* The front end build setup shows a good understanding of how to configure a modern Javascript framework and *Tailwind CSS* for development and production
+* The front end build setup shows a good understanding of how to configure a modern frontent pipeline and *Tailwind CSS* for development and production
 * Tailwind CSS should be used correctly to enable a responsive design and to style the UI into something decent
-* The Javascript framework is implemented as expected to produce a functional front end
+* The frontend framework is implemented as expected to produce a functional front end
 * The back end is configured such that the basics for a new system are set up correctly
 * The back end is architected in an understandable and maintainable way using up to date framework techniques
 * Tests are expected, however, there does not need to be full coverage. It should be clear from the tests that are written that testing was planned
@@ -66,7 +66,7 @@ That makes up the base level of the application. In Addition, we ask that you ch
 * Automated Tests
 
 ## WHAT IS EXPECTED IN YOUR TOOLBELT?
-* A Modern Front End Framework: VueJS, ReactJS, Angular or Alpine & Livewire
+* A Modern Front End Framework: Alpine & Livewire preferred, but Vue/React can be used in a pinch. 
 * [Tailwind CSS](https://tailwindcss.com/) (We'd really like you to give it a try)
 * [Laravel Framework](https://laravel.com) for the backend. You can use anything for the DB. Please include migrations and seed data
 * Github (or Bitbucket/Gitlab if you must!)
